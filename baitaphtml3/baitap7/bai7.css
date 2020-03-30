@@ -1,0 +1,56 @@
+.tuade a{
+    text-decoration: none;
+    text-align: justify;
+    font-size: 20px;
+    font-weight: bolder;
+    color: blue;
+}
+.tuade a:hover{
+    color: blueviolet
+}
+.tua a{
+    text-decoration: none;
+    color:black;
+    font-size: 19px;
+    font-weight: bolder;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+.tua a:hover{
+    color:burlywood;
+}
+.khung{
+    width: 810px;
+    height:370px;
+    border-bottom: 1px solid  #cecece;
+    border-top: 1px solid #cecece;
+    padding-top: 2px;
+    padding-bottom: 8px;
+}
+arctile{
+    width:270px;
+    height:345px;
+    margin-right: 15px;
+}
+img{
+    width:260px;
+    height:348px;
+    float:left;
+    margin-right: 20px;
+}
+.lienket a{
+    font-weight:bold;
+    text-decoration: none;
+    font-size: 10px;
+    color: black;
+    font-style: oblique;
+}
+.lienket a:hover{
+    color:blueviolet;
+}
+p{
+    font-size: 18px;
+}
+.chon{
+    border-top:3px dotted #cecece;
+}
